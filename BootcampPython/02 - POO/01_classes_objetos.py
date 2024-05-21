@@ -1,6 +1,6 @@
 import self
 
-
+#CLASSES E OBJETOS
 class Bicicleta:
     def __init__(self, cor, modelo, ano, valor):
         self.cor = cor
