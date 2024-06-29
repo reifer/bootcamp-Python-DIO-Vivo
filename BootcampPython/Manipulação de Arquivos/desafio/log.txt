@@ -1,0 +1,1 @@
+[2024-06-29 04:03:16] Fun��o 'criar_cliente' executada com argumentos ([<PessoaFisica: ('Reinaldo', '1')>],) e {}. Retornou None
