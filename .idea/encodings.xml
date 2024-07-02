@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/BootcampPython/Manipulação de Arquivos/desafio/log.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/BootcampPython/05 - Manipulação de Arquivos/desafio/log.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/BootcampPython/06 - Gerenciamento de pacotes e boas práticas/Desafio/desafio_v2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootcampPython/DesafioCodigo/plano_internet_v2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootcampPython/DesafioCodigo/plano_telefone.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BootcampPython/DesafioCodigo/plano_telefone_chamada.py" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>
